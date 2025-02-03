@@ -1,0 +1,12 @@
+* sprawdzic czy samobojstwo celebryty mialo wplyw
+
+
+
+
+
+############ PLAKAT ###############
+* czesc plakatu przedstawiajaca cechy, % cechy w polskim spoleczenstwie i % cechy u samobojcow, np 2 wykresy kolowe obok siebie
+
+* wykres przedstawiajacy flow pracy tzn znalezienie % cechy w spoleczenstwie -> znalezienie % cechy w samobojstwach 
+-> wyznaczenie % wplywu tej cechy na zwiekszenie/zmniejszenie samobojstwa tej jednostki -> 
+wyznaczenie % wplywu samobojstwa tej jednostki na inne jednostki w community
