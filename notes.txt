@@ -1,5 +1,7 @@
 * sprawdzic czy samobojstwo celebryty mialo wplyw
 
+* dostosowac q1 i q2 dla pomocy psychologicznej
+
 
 
 
@@ -13,4 +15,4 @@ wyznaczenie % wplywu samobojstwa tej jednostki na inne jednostki w community
 
 * telefon pomocy dla ludzi w kryzysie psychicznym
 
-* inaccuracies of our model --> brakujace dane, dla kazdej cechy zazwyczaj polowa to brak danych/nieustalony
+* inaccuracies of our model --> brakujace dane, dla kazdej cechy zazwyczaj polowa to brak danych/nieustalony, wiec wyniki beda raczej niedoszacowane
