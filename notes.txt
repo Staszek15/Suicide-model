@@ -2,6 +2,8 @@
 
 * dostosowac q1 i q2 dla pomocy psychologicznej
 
+* wykres ilosci samobojstw od czasu
+
 
 
 
@@ -16,3 +18,7 @@ wyznaczenie % wplywu samobojstwa tej jednostki na inne jednostki w community
 * telefon pomocy dla ludzi w kryzysie psychicznym
 
 * inaccuracies of our model --> brakujace dane, dla kazdej cechy zazwyczaj polowa to brak danych/nieustalony, wiec wyniki beda raczej niedoszacowane
+
+* zrodla danych
+
+* cechy ktore zwiekszaja
