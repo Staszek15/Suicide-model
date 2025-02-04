@@ -10,3 +10,5 @@
 * wykres przedstawiajacy flow pracy tzn znalezienie % cechy w spoleczenstwie -> znalezienie % cechy w samobojstwach 
 -> wyznaczenie % wplywu tej cechy na zwiekszenie/zmniejszenie samobojstwa tej jednostki -> 
 wyznaczenie % wplywu samobojstwa tej jednostki na inne jednostki w community
+
+* telefon pomocy dla ludzi w kryzysie psychicznym
